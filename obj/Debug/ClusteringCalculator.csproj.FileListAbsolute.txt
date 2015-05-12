@@ -1,0 +1,15 @@
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\bin\Debug\ClusteringCalculator.exe.config
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\bin\Debug\ClusteringCalculator.exe
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\bin\Debug\ClusteringCalculator.pdb
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Debug\MainWindow.baml
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Debug\MainWindow.g.cs
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Debug\App.g.cs
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Debug\ClusteringCalculator_MarkupCompile.cache
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Debug\ClusteringCalculator.g.resources
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Debug\ClusteringCalculator.Properties.Resources.resources
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Debug\ClusteringCalculator.csproj.GenerateResource.Cache
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Debug\ClusteringCalculator.exe
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Debug\ClusteringCalculator.pdb
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Debug\ClusteringCalculator_MarkupCompile.lref
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Debug\ClusteringCalculator.csprojResolveAssemblyReference.cache

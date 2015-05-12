@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ClusterMiddleDb">
+  <DataContextMoniker Name="/ClusterMiddleDbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="68e55785-b822-4b58-9127-d0295b9e6542" absoluteBounds="4, 2, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/ClusterMiddleDbDataContext/clustermiddle" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d8922e43-b057-4622-a4f5-6bf5fd00d6ba" absoluteBounds="4.015, 2.46, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

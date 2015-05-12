@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="TrainDb">
+  <DataContextMoniker Name="/TrainDbDataContext" />
+  <nestedChildShapes>
+    <classShape Id="731e0ed9-f77d-4c4d-bb78-f8f4ca456583" absoluteBounds="5.375, 1.875, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/TrainDbDataContext/train" />
+      <nestedChildShapes>
+        <elementListCompartment Id="da8ab7be-010e-4ff3-ad6d-cd26262584dc" absoluteBounds="5.39, 2.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

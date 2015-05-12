@@ -1,0 +1,14 @@
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\bin\Release\ClusteringCalculator.exe.config
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\bin\Release\ClusteringCalculator.exe
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\bin\Release\ClusteringCalculator.pdb
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Release\MainWindow.g.cs
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Release\App.g.cs
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Release\ClusteringCalculator_MarkupCompile.cache
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Release\ClusteringCalculator_MarkupCompile.lref
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Release\MainWindow.baml
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Release\ClusteringCalculator.g.resources
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Release\ClusteringCalculator.Properties.Resources.resources
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Release\ClusteringCalculator.csproj.GenerateResource.Cache
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Release\ClusteringCalculator.exe
+E:\Owncloud\Studium\WIM2\CPM\Clustering\VSProjektCalculator\ClusteringCalculator\obj\Release\ClusteringCalculator.pdb

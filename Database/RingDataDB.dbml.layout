@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="RingDataDB">
+  <DataContextMoniker Name="/RingDataDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="a7856a7a-4685-4548-ad30-119b2bb9e7b4" absoluteBounds="5.125, 2.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/RingDataDBDataContext/ringdata" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5259dac2-ca46-4130-b8ea-c1b8201b15a4" absoluteBounds="5.14, 2.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

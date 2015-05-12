@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="CPM" Class="ClusterMiddleDbDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=CPM;Integrated Security=True" SettingsObjectName="ClusteringCalculator.Properties.Settings" SettingsPropertyName="CPMConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.clustermiddle" Member="clustermiddle">
+    <Type Name="clustermiddle">
+      <Column Name="id" Type="System.Int64" DbType="BigInt NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="day" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="itemId" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="price" Type="System.Decimal" DbType="Money NOT NULL" CanBeNull="false" />
+      <Column Name="quantity" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>
